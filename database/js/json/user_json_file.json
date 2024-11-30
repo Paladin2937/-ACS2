@@ -1,0 +1,86 @@
+[
+    {
+        "u_id": "36",
+        "unique_id": "1117230790",
+        "Name": "Abdul Rehman ",
+        "email": "rehman@gmail.com",
+        "password": "$2y$10$7CI4B.XWe0HGB10mXbPXDOiKFc6\/iDiWbcYrtWCXloD",
+        "image": "1732977581pic-2.png",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "38",
+        "unique_id": "1133030496",
+        "Name": "samuel",
+        "email": "samuel@gmail.com",
+        "password": "123",
+        "image": "pic.jpg",
+        "status": "signal_cellular_4_bar",
+        "role_id": "2",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "51",
+        "unique_id": "267757519",
+        "Name": "samuel Yaqoob",
+        "email": "samuel855@gmail.com",
+        "password": "123",
+        "image": "1732811901pic-3.png",
+        "status": "signal_cellular_4_bar",
+        "role_id": "1",
+        "address": "karachi",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "59",
+        "unique_id": "882466609",
+        "Name": "Van A",
+        "email": "vanA@gmail.com",
+        "password": "123",
+        "image": "1732823342avatar.png",
+        "status": "signal_cellular_null",
+        "role_id": "1",
+        "address": "Da Nang",
+        "number": "084332"
+    },
+    {
+        "u_id": "60",
+        "unique_id": "864456872",
+        "Name": "Th\u1ecb B",
+        "email": "B@gmail.com",
+        "password": "123",
+        "image": "1732726576pic-4.png",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "Da Nang",
+        "number": "N\/A"
+    },
+    {
+        "u_id": "61",
+        "unique_id": "741297304",
+        "Name": "Paladin",
+        "email": "Paladin2937@gmail.com",
+        "password": "123456",
+        "image": "1732812675pic-1.png",
+        "status": "signal_cellular_null",
+        "role_id": "2",
+        "address": "Da Nang",
+        "number": "0943642"
+    },
+    {
+        "u_id": "63",
+        "unique_id": "851874552",
+        "Name": "Ph\u1ea1m Nguy\u1ec5n Ph\u00fa Tr\u1ecdng",
+        "email": "phutrong2937@gmail.com",
+        "password": "Demonhunter0912@",
+        "image": "1732961530pic-3.png",
+        "status": "signal_cellular_null",
+        "role_id": "1",
+        "address": "Da Nang",
+        "number": "N\/A"
+    }
+]
